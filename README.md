@@ -30,6 +30,14 @@
 
 </div>
 
+<div align="center">
+  <img
+    src="images/banner1.png"
+    width="100%"
+    alt="Zrong Developer Banner"
+  />
+</div>
+
 I enjoy building websites, experimenting with programming, and turning creative ideas into real projects.
 
 - 🌐 Web Development
