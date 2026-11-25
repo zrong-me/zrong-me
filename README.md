@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- ANIMATED HEADER -->
 <div align="center">
 
