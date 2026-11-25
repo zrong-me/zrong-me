@@ -1,4 +1,4 @@
- <!-- ═══════════════════════════════════════
+<!-- ═══════════════════════════════════════
      ZRONG — ANIMATED GITHUB PROFILE
      Midnight Blue / Cyan / Purple
 ════════════════════════════════════════ -->
@@ -79,30 +79,55 @@ I enjoy building websites, experimenting with programming, and turning creative 
 
 </div>
 
-### 📚 Khmer Ancient Library
+### 1. NexoraCV
+
+A personal CV and portfolio website showcasing my profile, skills, and projects.
+
+<div align="center">
+
+<a href="https://nexoracv.getaway416.workers.dev/">
+<img src="images/preview1.png" width="100%" alt="NexoraCV Live Preview"/>
+</a>
+
+**[🌐 LIVE PREVIEW ↗](https://nexoracv.getaway416.workers.dev/)**
+
+</div>
+
+### 2. Khmer Ancient Library
 
 A digital library dedicated to Khmer classical literature, Cambodian stories, and cultural preservation.
 
-🌐 **[EXPLORE WEBSITE ↗](https://khmerancientlibrary.vercel.app/)**
+<div align="center">
 
-### 🖥️ Personal Portfolio
+<a href="https://khmerancientlibrary.vercel.app/">
+<img src="images/preview2.png" width="100%" alt="Khmer Ancient Library Live Preview"/>
+</a>
 
-My personal website showcasing my profile, skills, and creative work.
+**[🌐 LIVE PREVIEW ↗](https://khmerancientlibrary.vercel.app/)**
 
-🌐 **[VISIT PORTFOLIO ↗](https://personal.getaway416.workers.dev/)**
+</div>
 
-### 🎨 404 Pages
+### 3. 404 Pages
 
 A collection of creative and animated website error pages.
 
-🌐 [Live Demo](https://zrong-me.github.io/404-Pages/)  
-💻 [Source Code](https://github.com/zrong-me/404-Pages)
+<div align="center">
 
-### ⌨️ Auto Typer
+<a href="https://zrong-me.github.io/404-Pages/">
+<img src="images/preview3.png" width="100%" alt="404 Pages Live Preview"/>
+</a>
+
+**[🌐 LIVE PREVIEW ↗](https://zrong-me.github.io/404-Pages/)**
+
+**[💻 SOURCE CODE ↗](https://github.com/zrong-me/404-Pages)**
+
+</div>
+
+### 4. Auto Typer
 
 A Python desktop application for automated typing and local testing.
 
-💻 [Source Code](https://github.com/zrong-me/Auto_Typer)
+💻 **[SOURCE CODE ↗](https://github.com/zrong-me/Auto_Typer)**
 
 ---
 
