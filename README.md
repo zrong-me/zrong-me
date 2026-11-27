@@ -43,6 +43,8 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 > *Create with curiosity. Build with patience. Improve a little every day.*
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 <div align="center"><img src="./assets/sakura/petals.gif" width="88%" alt="Sakura petals"/></div>
 
 ## 🧰 Technology Toolkit
