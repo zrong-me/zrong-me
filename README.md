@@ -193,6 +193,8 @@ A Python desktop application for automated typing and local testing.
 
 
 
+<div align="center">
+
 <a href="https://github.com/zrong-me" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
        width="40" height="40" alt="GitHub">
@@ -203,6 +205,7 @@ A Python desktop application for automated typing and local testing.
        width="40" height="40" alt="Telegram">
 </a>
 
+</div>
 
 
 
