@@ -2,7 +2,11 @@
 
 <a href="https://github.com/zrong-me"><img src="./assets/hero.svg" width="100%" alt="ZRONG — Create, Build, Bloom"/></a>
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 <img src="images/commit-name.svg" alt=".."/>
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=FFC4D9&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+ZRONG+%F0%9F%8C%B8;Aspiring+Developer+%7C+Digital+Creator;Learning+by+building+small+things;Exploring+web%2C+AI%2C+Python+and+apps;Keep+growing.+Keep+creating." alt="Typing introduction"/></a>
 
@@ -14,18 +18,20 @@
 
 </div>
 
----
+<img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
      <div align="center">
 <img src="images/github.png" width="100%" alt="Zrong Developer Banner"/>
 </div>
 
----
+<img src="images/borderseparator.gif" alt="line"/>
 
 ## 🌸 About Me
 
 Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring technology and turning ideas into small digital projects. I learn by building, experimenting, reading code, fixing mistakes, and improving each version.
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 - 🌐 I enjoy creating responsive websites with HTML, CSS, and JavaScript.
 - 🤖 I'm exploring AI models, agent concepts, and useful AI interfaces.
@@ -40,6 +46,8 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 <div align="center"><img src="./assets/sakura/petals.gif" width="88%" alt="Sakura petals"/></div>
 
 ## 🧰 Technology Toolkit
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 *These are technologies I use, learn, or explore — not a claim of professional expertise.*
 
@@ -62,7 +70,7 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 ### My creative workflow
 
 | Step | What I do |
-|---|---|
+<img src="images/borderseparator.gif" alt="line"/>
 | 💡 Idea | Think about a useful feature or a problem to solve |
 | 🎨 Design | Plan the layout, colors, and user experience |
 | 🧱 Build | Write and organize the code |
@@ -71,11 +79,13 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 ## 🎯 What I'm Learning
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 <details open>
 <summary><b>My current learning map 🌷</b></summary>
 
 | Topic | Current direction |
-|---|---|
+<img src="images/borderseparator.gif" alt="line"/>
 | Web development | JavaScript fundamentals, responsive design, accessibility |
 | UI design | Layout, typography, color systems, micro-interactions |
 | Python | Programming fundamentals and small utilities |
@@ -88,7 +98,7 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 </details>
 
 ### 🌱 A few goals
-
+<img src="images/borderseparator.gif" alt="line"/>
 - [ ] Improve my JavaScript and Python fundamentals
 - [ ] Make my projects easier to use on mobile and desktop
 - [ ] Learn more about GitHub Actions and automation
@@ -98,11 +108,15 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 ## 🚀 Featured Projects
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 NEXORA AI
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 An ongoing AI project exploring chat, agent workflows, and a custom web experience.
 
@@ -149,6 +163,8 @@ A personal web space for exploring design, layout, and interaction ideas.
 
 ## 📊 GitHub Statistics
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 <div align="center">
 
 <a href="https://github.com/zrong-me"><img height="175" src="https://github-readme-stats.vercel.app/api?username=zrong-me&show_icons=true&hide_border=true&bg_color=17111D&title_color=FFC4D9&icon_color=F4A9C4&text_color=EADDE7&ring_color=FFC4D9" alt="GitHub statistics"/></a>
@@ -160,24 +176,28 @@ A personal web space for exploring design, layout, and interaction ideas.
 
 </div>
 
----
+<img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
      <div align="center">
 <img src="images/banner1.png" width="100%" alt="Zrong Developer Banner"/>
 </div>
 
----
+<img src="images/borderseparator.gif" alt="line"/>
 
 <sub>Statistics come from external services and may be delayed or temporarily unavailable. Language charts are repository estimates, not skill rankings.</sub>
 
 ## 🌿 Recent GitHub Activity
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 <!-- ACTIVITY:START -->
 <p align="center"><i>Recent public GitHub activity will appear here after the workflow runs.</i></p>
 <!-- ACTIVITY:END -->
 
 ## Sticker Contribution Garden
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
 
@@ -190,7 +210,11 @@ A personal web space for exploring design, layout, and interaction ideas.
 
 </div>
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 ## 🌸 My Learning Journey
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 I believe good projects grow through small steps. I don't need to know everything before starting — I can learn one feature, test it, and improve it.
 
@@ -210,7 +234,11 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 </details>
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 ## 💌 Connect
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
 
@@ -223,7 +251,11 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 <br/><br/>
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 **Thanks for stopping by!** 🌸
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 *May your ideas bloom, one commit at a time.*
 
