@@ -138,6 +138,8 @@ A digital reading project focused on Khmer classical and ancient literature.
 
 ### 🧩 404 Pages Collection
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 A collection of custom error-page designs and front-end experiments.
 
 [**View repository →**](https://github.com/getaway416-dotcom/404-Pages)
