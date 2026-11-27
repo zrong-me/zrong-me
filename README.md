@@ -265,7 +265,7 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 *May your ideas bloom, one commit at a time.*
 
-<img src="images/banner2" alt="end"/>
+<img src="images/banner2.png" alt="end"/>
 
 </div>
 
