@@ -1,0 +1,1 @@
+This is an original ZRONG profile starter assembled for the user. It uses references to third-party GitHub Actions and externally hosted badge/stat services. Those components remain subject to their own licenses and terms. Review action repositories and versions before enabling workflows in a public repository.

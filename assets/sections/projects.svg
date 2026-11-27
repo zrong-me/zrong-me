@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="66" viewBox="0 0 1100 66">
+<rect x="0" y="8" width="1100" height="50" rx="9" fill="#0b1724" stroke="#16445b"/>
+<rect x="0" y="8" width="5" height="50" rx="2" fill="#00d9ff"/>
+<text x="25" y="41" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#00d9ff" letter-spacing="2">04</text>
+<text x="72" y="41" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#e8f7ff" letter-spacing="3">FEATURED PROJECTS</text>
+<path d="M760 33H1065" stroke="#00d9ff" stroke-opacity=".45" stroke-width="1"/>
+<circle cx="1074" cy="33" r="3" fill="#00d9ff"/>
+</svg>
