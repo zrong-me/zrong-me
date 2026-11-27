@@ -23,8 +23,11 @@
 <img src="images/github.png" width="100%" alt="Zrong Developer Banner"/>
 </div>
 </div>
+
+<div align="center">
 ---
 
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6"/>
