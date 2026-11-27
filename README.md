@@ -203,7 +203,7 @@ A Python desktop application for automated typing and local testing.
        width="40" height="40" alt="GitHub">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+<a href="https://t.me/zrongkhatna" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4"
        width="40" height="40" alt="Telegram">
 </a>
