@@ -265,6 +265,17 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 *May your ideas bloom, one commit at a time.*
 
-<img src="images/animated-divider.svg" alt="line"/>
+<img src="images/banner2" alt="end"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/zrong-me">
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://t.me/Zrongkhatna">
+  <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 </div>
