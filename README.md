@@ -269,7 +269,7 @@ I believe good projects grow through small steps. I don't need to know everythin
   <img
     src="https://media.tenor.com/yBw98jgTgAoAAAAM/sakura-cherry-blossom.gif"
     width="100%"
-    height="25%"
+    height="15%"
     alt="Sakura animation"
   />
 </div>
