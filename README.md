@@ -127,6 +127,8 @@ An ongoing AI project exploring chat, agent workflows, and a custom web experien
 
 ### 📚 Khmer Ancient Library
 
+<img src="images/borderseparator.gif" alt="line"/>
+
 A digital reading project focused on Khmer classical and ancient literature.
 
 [**Visit website →**](https://khmerancientlibrary.vercel.app/)
@@ -148,6 +150,8 @@ A collection of custom error-page designs and front-end experiments.
 <td width="50%" valign="top">
 
 ### 💻 Personal Website
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 A personal web space for exploring design, layout, and interaction ideas.
 
