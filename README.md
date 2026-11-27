@@ -194,3 +194,19 @@ A Python desktop application for automated typing and local testing.
 **© Zrong — Building ideas into reality.**
 
 </div>
+
+
+<div align="center">
+
+<a href="https://github.com/zrong-me" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="40" height="40" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+       width="40" height="40" alt="Telegram">
+</a>
+
+</div>
+
