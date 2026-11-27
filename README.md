@@ -265,13 +265,6 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 *May your ideas bloom, one commit at a time.*
 
-<div align="center">
-  <img
-    src="https://media.tenor.com/yBw98jgTgAoAAAAM/sakura-cherry-blossom.gif"
-    width="100%"
-    height="15%"
-    alt="Sakura animation"
-  />
-</div>
+<img src="images/animated-divider.svg" alt="line"/>
 
 </div>
