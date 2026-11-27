@@ -16,6 +16,13 @@
 
 ---
 
+<div align="center">
+     <div align="center">
+<img src="images/github.png" width="100%" alt="Zrong Developer Banner"/>
+</div>
+
+---
+
 ## 🌸 About Me
 
 Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring technology and turning ideas into small digital projects. I learn by building, experimenting, reading code, fixing mistakes, and improving each version.
