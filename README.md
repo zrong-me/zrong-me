@@ -29,9 +29,9 @@
 
 ## 🌸 About Me
 
-Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring technology and turning ideas into small digital projects. I learn by building, experimenting, reading code, fixing mistakes, and improving each version.
-
 <img src="images/borderseparator.gif" alt="line"/>
+
+Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring technology and turning ideas into small digital projects. I learn by building, experimenting, reading code, fixing mistakes, and improving each version.
 
 - 🌐 I enjoy creating responsive websites with HTML, CSS, and JavaScript.
 - 🤖 I'm exploring AI models, agent concepts, and useful AI interfaces.
