@@ -177,13 +177,13 @@ A personal web space for exploring design, layout, and interaction ideas.
 <p align="center"><i>Recent public GitHub activity will appear here after the workflow runs.</i></p>
 <!-- ACTIVITY:END -->
 
-## 🐍 Contribution Garden
+## Sticker Contribution Garden
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zrong-me/zrong-me/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXduZDc5d3M3N3djc2dvZ3N4cXdoZWFvd2ZkMjVzYzdzNndzbGJ6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif" width="100%" alt="Animated GitHub contribution snake"/>
 
-<a href="https://github.com/zrong-me"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zrong-me&bg_color=17111D&color=EADDE7&line=F4A9C4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/></a>
+<a href="https://github.com/zrong-me"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGR5cGc2cmUyMjZ0Z3gxcDZqbWs0amFya24xZnhiZTc0NmVwbDFuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0hO6IPA2EkQBaomQEu/giphy.gif" width="100%" alt="Contribution activity graph"/></a>
 
 </div>
 
