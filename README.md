@@ -191,10 +191,10 @@ A Python desktop application for automated typing and local testing.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0891B2,65:7C3AED,100:020617&height=150&section=footer&animation=fadeIn"/>
 
-<div align="center">
+
 
 <a href="https://github.com/zrong-me" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
        width="40" height="40" alt="GitHub">
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -203,10 +203,12 @@ A Python desktop application for automated typing and local testing.
        width="40" height="40" alt="Telegram">
 </a>
 
+
+
+
+
 </div>
 
 
-
-</div>
 
 
