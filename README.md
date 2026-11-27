@@ -21,8 +21,48 @@
 <img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+</div>
+
+<div align="center">
      <div align="center">
 <img src="images/github.png" width="100%" alt="Zrong Developer Banner"/>
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
 </div>
 
 <img src="images/borderseparator.gif" alt="line"/>
