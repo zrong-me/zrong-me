@@ -181,9 +181,12 @@ A personal web space for exploring design, layout, and interaction ideas.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXduZDc5d3M3N3djc2dvZ3N4cXdoZWFvd2ZkMjVzYzdzNndzbGJ6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif" width="100%" alt="Animated GitHub contribution snake"/>
-
-<a href="https://github.com/zrong-me"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGR5cGc2cmUyMjZ0Z3gxcDZqbWs0amFya24xZnhiZTc0NmVwbDFuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0hO6IPA2EkQBaomQEu/giphy.gif" width="100%" alt="Contribution activity graph"/></a>
+<a href="https://github.com/zrong-me">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXduZDc5d3M3N3djc2dvZ3N4cXdoZWFvd2ZkMjVzYzdzNndzbGJ6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif" width="49%" alt="Contribution Snake"/>
+</a>
+<a href="https://github.com/zrong-me">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGR5cGc2cmUyMjZ0Z3gxcDZqbWs0amFya24xZnhiZTc0NmVwbDFuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0hO6IPA2EkQBaomQEu/giphy.gif" width="49%" alt="Contribution Activity"/>
+</a>
 
 </div>
 
