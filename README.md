@@ -2,7 +2,7 @@
 
 <a href="https://github.com/zrong-me"><img src="./assets/hero.svg" width="100%" alt="ZRONG — Create, Build, Bloom"/></a>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" alt="React and Node.js"/>
+<img src="images/commit-name.svg" alt=".."/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=FFC4D9&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+ZRONG+%F0%9F%8C%B8;Aspiring+Developer+%7C+Digital+Creator;Learning+by+building+small+things;Exploring+web%2C+AI%2C+Python+and+apps;Keep+growing.+Keep+creating." alt="Typing introduction"/></a>
 
