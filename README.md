@@ -308,6 +308,26 @@ A personal web space for exploring design, layout, and interaction ideas.
 <img src="images/borderseparator.gif" alt="line"/>
 
 <div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/zrong-me">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXduZDc5d3M3N3djc2dvZ3N4cXdoZWFvd2ZkMjVzYzdzNndzbGJ6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wKWxuUOcp9fdvckBty/giphy.gif" width="49%" alt="Contribution Snake"/>
@@ -316,6 +336,26 @@ A personal web space for exploring design, layout, and interaction ideas.
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGR5cGc2cmUyMjZ0Z3gxcDZqbWs0amFya24xZnhiZTc0NmVwbDFuaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0hO6IPA2EkQBaomQEu/giphy.gif" width="49%" alt="Contribution Activity"/>
 </a>
 
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
 </div>
 
 <img src="images/borderseparator.gif" alt="line"/>
@@ -367,6 +407,26 @@ I believe good projects grow through small steps. I don't need to know everythin
 
 *May your ideas bloom, one commit at a time.*
 
+<div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+</div>
+
 <img src="images/banner2.png" alt="end"/>
 
 </div>
@@ -380,5 +440,25 @@ I believe good projects grow through small steps. I don't need to know everythin
   <img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
 </div>
 
