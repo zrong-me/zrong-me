@@ -45,7 +45,20 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 <img src="images/borderseparator.gif" alt="line"/>
 
-<div align="center"><img src="./assets/sakura/petals.gif" width="88%" alt="Sakura petals"/></div>
+<div align="center">
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/> 
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+  <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
+</div>
+
+<img src="images/borderseparator.gif" alt="line"/>
 
 ## 🧰 Technology Toolkit
 
