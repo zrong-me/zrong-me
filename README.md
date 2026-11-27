@@ -191,11 +191,6 @@ A Python desktop application for automated typing and local testing.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0891B2,65:7C3AED,100:020617&height=150&section=footer&animation=fadeIn"/>
 
-**© Zrong — Building ideas into reality.**
-
-</div>
-
-
 <div align="center">
 
 <a href="https://github.com/zrong-me" target="_blank">
@@ -209,4 +204,9 @@ A Python desktop application for automated typing and local testing.
 </a>
 
 </div>
+
+
+
+</div>
+
 
