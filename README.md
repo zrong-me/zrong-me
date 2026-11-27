@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5wMmUzNGhzamF5eTc3ZGsxdGFudzRocW5hOWxna3FleHlra2NhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x76GCwtLZb0DLYnOHR/giphy.gif"
+    src="https://media.tenor.com/16HBaGg-SKoAAAAi/cute-pink.gif"
     width="100%"
     height="50%"
     alt="Sakura animation"
