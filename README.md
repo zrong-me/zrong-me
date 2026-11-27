@@ -462,3 +462,5 @@ I believe good projects grow through small steps. I don't need to know everythin
   <img src="https://media.tenor.com/YxIJa-laLSQAAAAm/cherry-blossom-cherry-blossoms.webp" width="45" alt="Sakura"/>
 </div>
 
+<img src="images/borderseparator.gif" alt="line"/>
+
