@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
+     <div align="center">
 <img src="images/github.png" width="100%" alt="Zrong Developer Banner"/>
+</div>
 </div>
 ---
 
