@@ -4,9 +4,9 @@
 
 <div align="center">
   <img
-    src="https://media.tenor.com/16HBaGg-SKoAAAAi/cute-pink.gif"
+    src="https://media.tenor.com/m3CYBJmv4QQAAAAM/tadakun-wa-koi-wo-shinai-sakura.gif"
     width="100%"
-    height="50%"
+    height="25%"
     alt="Sakura animation"
   />
 </div>
