@@ -160,6 +160,15 @@ A personal web space for exploring design, layout, and interaction ideas.
 
 </div>
 
+---
+
+<div align="center">
+     <div align="center">
+<img src="images/banner1.png" width="100%" alt="Zrong Developer Banner"/>
+</div>
+
+---
+
 <sub>Statistics come from external services and may be delayed or temporarily unavailable. Language charts are repository estimates, not skill rankings.</sub>
 
 ## 🌿 Recent GitHub Activity
