@@ -214,17 +214,17 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 NEXORA AI
+## 🚀 Nexoracv
 
-<img src="images/borderseparator.gif" alt="line"/>
+<img src="./images/nexoracv.jpg" width="100%" alt="Nexoracv Preview">
 
-An ongoing AI project exploring chat, agent workflows, and a custom web experience.
+**Personal Portfolio & Creative Development**
 
-[**View repository →**](https://github.com/getaway416-dotcom/NEXORA-AI)
+[View Repository →](https://github.com/zrong-me/nexoracv)
 
-</td>
+</div>
 <td width="50%" valign="top">
 
 ### 📚 Khmer Ancient Library
