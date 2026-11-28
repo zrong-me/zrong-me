@@ -214,17 +214,20 @@ Hi, I'm **ZRONG** — an aspiring developer from Cambodia. I enjoy exploring tec
 
 <table>
 <tr>
-<div align="center">
+<td width="50%" valign="top">
 
-## 🚀 Nexoracv
+### 🚀 Nexora CV
 
-<img src="./images/nexoracv.jpg" width="100%" alt="Nexoracv Preview">
+<img src="images/borderseparator.gif" alt="line"/>
 
-**Personal Portfolio & Creative Development**
+<img src="images/nexoracv.jpg" width="100%" alt="Khmer Ancient Library"/>
 
-[View Repository →](https://github.com/zrong-me/nexoracv)
+A digital reading project focused on Khmer classical and ancient literature.
 
-</div>
+[**Visit website →**](https://khmerancientlibrary.vercel.app/)
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 📚 Khmer Ancient Library
